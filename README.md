@@ -1,9 +1,5 @@
 ### Hello everyone 👋
-- ⚡ Fun fact: 
-  - This summer, I fell in love.
-  - That love made me forget everything.
-  - Then that love broke down on the very important day - two months after we met.
-  - And I've realized I've spent too much time in love, I need to wake up now.
+- ⚡ Fun fact:
   - I thought I was a strong person, but my heart is so fragile...
 <!--
 **WizardSC/WizardSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
