@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 - ⚡ Fun fact:
-  - I thought I was a strong person, but my heart is so fragile...
+
 <!--
 **WizardSC/WizardSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
